@@ -11,5 +11,5 @@ A program for Airbnb Hosts which automatically gives a review to previous guests
 1. Opens Chrome Browser
 2. logs into your account (login and passw put in Terminal)
 3. Does a review for 6 guests (change range() in for loop to increase)
-4. checks if one or more quests to make message singular or plural
+4. checks if one or more guests to make message singular or plural
 5. default message is in german (you can adjust that)
